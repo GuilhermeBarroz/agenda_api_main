@@ -7,4 +7,4 @@ O backend do aplicativo é desenvolvido utilizando o Spring Framework, que é
 um framework popular para o desenvolvimento de aplicativos Java. O Spring
 Framework oferece recursos abrangentes para a criação de APIs RESTful, incluindo
 o suporte a endpoints, manipulação de solicitações HTTP, autenticação e
-autorização.
+autorização..
